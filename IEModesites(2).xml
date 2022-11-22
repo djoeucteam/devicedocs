@@ -1,0 +1,14 @@
+<site-list version="2.0">
+  <site url="prod.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://awsobweb5.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://awsobweb6.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+</site-list>
