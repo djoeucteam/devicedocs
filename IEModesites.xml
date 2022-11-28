@@ -1,5 +1,13 @@
-<site-list version="2.0">
+<site-list version="3.0">
   <site url="prod.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://awsobweb3">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://awsobweb3/AppNet/Login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
