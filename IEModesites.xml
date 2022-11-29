@@ -1,4 +1,4 @@
-<site-list version="4.0">
+<site-list version="5.0">
   <site url="prod.djoglobal.com">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
