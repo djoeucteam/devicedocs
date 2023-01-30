@@ -1,4 +1,4 @@
-<site-list version="6.0">
+<site-list version="7.0">
   <site url="prod.djoglobal.com">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
@@ -8,6 +8,22 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="https://awsobweb6.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://awsobweb3.djoglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://awsobweb5.djoglobal.com/appnet/login.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://awsobweb6.djoglobal.com/appnet/login.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://awsobweb3.djoglobal.com/appnet/login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
