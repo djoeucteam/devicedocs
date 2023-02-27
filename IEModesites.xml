@@ -1,13 +1,5 @@
-<site-list version="8.5">
-  <site url="prod.djoglobal.com">
-    <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
-  </site>
-  <site url="uat-ebs.djoglobal.com">
-    <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
-  </site>
-  <site url="https://awsobweb5.djoglobal.com">
+<site-list version="9.0">
+   <site url="https://awsobweb5.djoglobal.com">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
