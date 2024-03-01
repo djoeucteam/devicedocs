@@ -1,8 +1,4 @@
-<site-list version="12.0">
-   <site url="https://sdcobwebdev01.djoglobal.com">
-    <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
-  </site>
+<site-list version="13.0">
    <site url="https://awsobweb5.djoglobal.com">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
